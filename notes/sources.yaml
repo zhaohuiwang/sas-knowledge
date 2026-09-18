@@ -1,0 +1,9 @@
+
+
+
+sources:
+
+  - name: examples
+    url: https://github.com/sassoftware/sas-code-examples
+    branch: main
+    directory: sources/sassoftware/sas-code-examples
